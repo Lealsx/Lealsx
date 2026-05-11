@@ -43,7 +43,7 @@ Sou um **desenvolvedor Full Stack** curioso e dedicado, atualmente cursando **Si
   <a href="mailto:luis.leal2005@gmail.com" title="Email">
     <img src="svg/mail.svg" alt="Email" width="16" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luis-felipe-santos-leal-a783b22b3/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/luisfelipesantosleal/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="svg/linkedin.svg" alt="LinkedIn" width="16" />
   </a>&nbsp;&nbsp;
 </p>
