@@ -1,7 +1,7 @@
 
 ## Sobre mim 
 
-Sou um **desenvolvedor Full Stack** curioso e dedicado, atualmente cursando **Sistemas de Informação** na UNISANTA (SP) e me especializado em **Análise e Desenvolvimento de Sistemas**, com foco em inovação e sustentação.Valorizo código de alta qualidade, colaboração em equipe e aprendizado contínuo. Acredito que a melhor forma de crescer é compartilhando conhecimento e construindo soluções que realmente fazem a diferença.
+Sou um **desenvolvedor Full Stack** curioso e dedicado, atualmente cursando **Sistemas de Informação** na UNISANTA (SP) e especializado em **Análise e Desenvolvimento de Sistemas**, com foco em inovação e sustentação.Valorizo código de alta qualidade, colaboração em equipe e aprendizado contínuo. Acredito que a melhor forma de crescer é compartilhando conhecimento e construindo soluções que realmente fazem a diferença.
 
 ## Tech Stack
 
